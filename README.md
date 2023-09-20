@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 AWS Cloud Projects:</h2> 
 
-- [Microservices Architecture with AWS ECS](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Microservices Architecture with AWS ECS](https://github.com/bevinhallcloud/Microservices-Architecture-with-AWS-ECS)
 - [Multi-VPC Account Architecture](https://github.com/bevinhallcloud/Multi-VPCAccountArchitectureLab)
 
 <h2>👨‍💻 Certifications:</h2>
