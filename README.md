@@ -4,6 +4,7 @@
 
 - [Microservices Architecture with AWS ECS](https://github.com/bevinhallcloud/Microservices-Architecture-with-AWS-ECS)
 - [Multi-VPC Account Architecture](https://github.com/bevinhallcloud/Multi-VPCAccountArchitectureLab)
+- [End-to-End Web Application on AWS](https://github.com/bevinhallcloud/Multi-VPCAccountArchitectureLab)
 
 <h2>👨‍💻 Certifications:</h2>
 
